@@ -114,3 +114,7 @@ Passwords,Wallets,Steam,Epic,Discord,Ubisoft and more.
 ## Support the Project
 
 No Need For Money, Just Rate My Repo.
+
+## Special Thanks
+
+Special Thanks To Mattisan, My Partner.
