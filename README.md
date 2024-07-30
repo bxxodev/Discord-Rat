@@ -35,10 +35,11 @@ Thats All I really hope u will have fun with this, PLEASE TELL ME WHAT SHOULD I 
 
 - [Download](#download)
 - [Features](#features)
-- [Grab Info](#stub-settings)
+- [Grab Info](#grab-info)
 - [Requirements](#requirements)
-- [How to Build?](#grab-info)
+- [How to Build?](#how-to-build)
 - [Support the Project](#support-the-project)
+- [Tutorial](#support-the-project)
 
 ## Download
 
