@@ -90,7 +90,7 @@ Thats All I really hope u will have fun with this, PLEASE TELL ME WHAT SHOULD I 
 
 ## ShowCase
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">]((https://youtu.be/oXmqWTeMiTQ))
+[<img src="https://raw.githubusercontent.com/bxxodev/Discord-Rat/main/.github/tumbnail.png" width="50%">]((https://youtu.be/oXmqWTeMiTQ))
 
 
 ## Grab Info:
