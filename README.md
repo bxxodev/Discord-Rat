@@ -30,9 +30,6 @@ Do Not Sell Or Say That This Is Yours, want to remember you i created it and i k
 
 Thats All I really hope u will have fun with this, PLEASE TELL ME WHAT SHOULD I ADD!!
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/a4dfgmem12Zi5oLMHUT4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-
 
 ## Table of Contents
 
