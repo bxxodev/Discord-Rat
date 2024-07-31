@@ -81,13 +81,13 @@ Thats All I really hope u will have fun with this, PLEASE TELL ME WHAT SHOULD I 
     • !ping
     • !grab
     • !screenrecord
-    • !webcamrecord
+    • !webcamrecord!
+
     • !micrecord
     (More coming soon!)
 
 
-<img  src="https://raw.githubusercontent.com/bxxodev/Discord-Rat/main/.github/dedsec-idc.gif">
-
+[https://github.com/user-attachments/assets/f438b3bb-fba4-4e91-9457-86b183d8cdd0](https://streamable.com/yrewvj)
 
 ## Grab Info:
 
