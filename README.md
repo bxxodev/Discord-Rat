@@ -100,6 +100,8 @@ Passwords,Wallets,Steam,Epic,Discord,Ubisoft and more.
 - Windows 10+
 - Latest [Python Version](https://www.python.org/downloads/)
 - An active internet connection.
+- 
+[![Screenshot 2024-07-31 140412](https://github.com/user-attachments/assets/dccbba8b-554c-48ae-b371-f6cb23d810d6)](https://streamable.com/yrewvj)
 
 ## How to Build?
 
