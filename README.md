@@ -88,6 +88,11 @@ Thats All I really hope u will have fun with this, PLEASE TELL ME WHAT SHOULD I 
     • !micrecord
     (More coming soon!)
 
+## ShowCase
+
+https://youtu.be/oXmqWTeMiTQ
+
+
 ## Grab Info:
 
 Passwords,Wallets,Steam,Epic,Discord,Ubisoft and more.
