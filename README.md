@@ -86,6 +86,8 @@ Thats All I really hope u will have fun with this, PLEASE TELL ME WHAT SHOULD I 
     (More coming soon!)
 
 
+<img  src="https://raw.githubusercontent.com/bxxodev/Discord-Rat/main/.github/dedsec-idc.gif">
+
 
 ## Grab Info:
 
